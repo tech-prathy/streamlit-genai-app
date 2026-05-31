@@ -4,3 +4,7 @@ pypdf
 openai
 langchain
 chromadb
+langchain_text_splitters
+langchain-community
+langchain-openai
+faiss-cpu
